@@ -1,0 +1,498 @@
+/**
+	Estilos para la infografía "Gobernadores & Senadores"
+**/
+
+* { margin: 0; padding: 0; border:none; font-family: 'Roboto', sans-serif; color:#666666; text-shadow: 0 0px 0 #fff !important;}
+img {border:none;}
+
+*:focus {outline: none;}
+
+.content{
+	width:775px;
+	margin: 0px 10px;
+}
+
+.header{
+	clear:both;
+	width:100%;
+	overflow: hidden;
+	text-align: left;
+	padding-top: 30px;
+	margin-left: 23px;
+	padding-bottom: 10px;
+	font-size: 34px;
+}
+#title_main {
+	color: #606060;
+	font-weight: bold;
+}
+.lang_version{
+	margin: -22px  30px 0 0;
+	float: right;
+	cursor: pointer;
+}
+
+img#lang {
+	
+}
+hr.header_line {
+	width: 775px;
+	background-color: #A0A0A0;
+	height:1px;
+}
+hr.title_line {
+	margin-left: 30px;
+	margin-right: 30px;
+	width: 715px;
+	background-color: #A0A0A0;
+	height:1px;
+}
+.title {
+	clear: both;
+	width: 715px;
+	overflow: hidden;
+	font-size: 14px;
+	padding-top: 30px;
+	padding-bottom: 30px;
+	margin-left: 30px;
+	margin-right: 30px;
+	text-align: left;
+}
+.contenido {
+	padding-top: 20px;
+}
+#Origin {
+	text-align: center;
+	height: 50px;
+	width: 150px;
+	margin-left: 30px;
+	display: inline-block;
+	cursor: pointer;
+	border: 1px #FFFFFF solid;
+}
+#Origin > p {
+	display: inline-block;
+	margin-top: 15px;
+	padding-right: 30px;
+	border-right: 1px #666666 solid;
+}
+#Destiny {
+	text-align: center;
+	height: 50px;
+	width: 150px;
+	display: inline-block;
+	cursor: pointer;
+	border: 1px #FFFFFF solid;
+}
+#Destiny > p {
+	display: inline-block;
+	margin-top: 15px;
+	padding-right: 30px;
+	border-right: 1px #666666 solid;
+}
+i.fa.fa-caret-down {
+	margin-left: 10px;
+	font-size: 30px;
+}
+
+.origen {
+	stroke-dasharray: 5, 5;
+}
+div.infoExtra {
+	margin-top: -40px;
+	border-left: 1px #818181 solid;
+	float: right;
+	padding-left: 20px;
+	height: 40px;
+	margin-right: 10px;
+}
+.titulo_nota p.nm {
+	width: 120px;
+	display: inline-block;
+	vertical-align: top;
+	font-weight: bold;
+	font-size: 12px;
+}
+.titulo_nota p.linea {
+	border-bottom: 1px solid #828282;
+	display: inline-block;
+	vertical-align: middle;
+	width: 650px;
+	height: 7px;
+}
+div#contenedor_instrucciones, .acerca{	
+	position: absolute;
+	width: 600px;
+	background-color: white;
+	margin-left: 90px;	
+	/*box-shadow: 3px 3px 15px #fff;*/
+	padding: 20px;
+	margin-top: 200px;	
+}
+.modal .cerrar{
+	cursor:pointer;
+	width:22px;
+	height:22px;
+	background: url("../images/cerrar.png") no-repeat;
+	float:right;
+	margin-right: -22px;
+	margin-top: -18px;
+}
+div.modal{
+	width: 775px;
+	height: 70%;
+	background-color: rgba(0,0,0,0.7);
+	position: absolute;
+	z-index: 9999999;
+	top: 0px;
+}
+div.modal p, div.modal div{
+	font-size:14px;
+}
+div.tituloT {
+	border-bottom: 1px #818181 solid;
+	padding-bottom: 20px;
+	margin-bottom: 20px;
+	text-transform: uppercase;
+}
+div.verInstrucciones, .info_acerca {
+	width: 100px;
+	float: right;
+	font-size: 14px;
+	margin-top: 10px;
+}
+div.info_acerca img, div.verInstrucciones img {
+	position: absolute;
+	margin-left: 15px;
+	margin-top: -3px;
+}
+div.verInstrucciones:hover, .cerrar:hover, .info_acerca:hover{
+	cursor:pointer;
+}
+#time_line {
+	margin-left: 35px;
+	margin-top: 60px;
+	margin-bottom: 40px;
+}
+.years {
+	font-size: 14px;
+}
+.circle_year {
+	cursor:pointer;
+}
+#Capa_1 {
+	margin-left: 40px;
+}
+#info_map {
+	margin-left: 40px;
+}
+
+.boton{
+	width: 150px;
+	padding: 7px 0px 7px 25px;
+	margin: 50px 0px 10px 147px;
+	float: left;
+}
+.d4 {		
+	width:236px;
+	/*margin:20px auto;*/
+	clear:both;
+	background: url("../images/univision2.png") no-repeat !important;
+	background-position:0px 15px !important;
+	background-size:84px 52px !important;
+	padding:20px 0px;
+	display:inline-block;
+}
+.d4 span, .d4 a {
+	display: block;
+	margin-left: 65px;
+	font-size: 12px;
+	color: #858585 !important;
+	text-decoration:none;
+	font-weight: normal !important;
+}
+.d4 span{
+	background-position: 12px 1px !important;
+	background-size: 15px 15px !important;
+	padding: 2px 0px 2px 20px;
+}
+.footer{
+	text-align:center;
+	padding: 25px 0px;	
+}
+.nota{
+	margin-top:50px;
+}
+div.nota p {
+	font-size:10px;
+}
+
+div.menu div {
+	width: 161px;
+	float: left;
+	/*border-left: 1px gray solid;
+	border-right: 1px gray solid;*/
+	padding-left: 0px;
+	font-size: 14px;
+	margin-bottom: -20px;
+}
+div.menu {
+	padding-top: 0px;
+	padding-bottom: 35px;
+	padding-left: 25px;
+	width: 500px;
+	overflow:hidden;
+	position:absolute;
+	margin-left:30px;
+}
+div#menu_origen {
+	box-shadow: 0px 0px 20px #888888;
+}
+div#menu_destino {
+	box-shadow: 0px 0px 20px #888888;
+}
+.activo, .menu {
+	background-color:#F8F8F8;
+	border: 1px #A9A9A9 solid !important;
+	box-shadow: 0px 0px 5px #888888;
+}
+
+/**
+ * Start by hiding the checkboxes
+ */
+input[type=checkbox] {
+	visibility: hidden;
+}
+/**
+ * Checkbox Five
+ */
+.checkboxFive {
+	width: 25px;
+	margin: 20px 0px;
+	position: relative;
+}
+/**
+ * Create the box for the checkbox
+ */
+.checkboxFive label {
+	margin-top: 5px;
+	cursor: pointer;
+	position: absolute;
+	width: 10px;
+	height: 10px;
+	top: 0;
+  	left: 0;
+	background: #eee;
+	border:1px solid #ddd;
+}
+/**
+ * Display the tick inside the checkbox
+ */
+.checkboxFive label:after {
+	opacity: -0.8;
+	content: '';
+	position: absolute;
+	width: 9px;
+	height: 5px;
+	background: transparent;
+	top: 0px;
+	left: 0px;
+	border: 3px solid #333;
+	border-top: none;
+	border-right: none;
+
+	-webkit-transform: rotate(-45deg);
+	-moz-transform: rotate(-45deg);
+	-o-transform: rotate(-45deg);
+	-ms-transform: rotate(-45deg);
+	transform: rotate(-45deg);
+}
+/**
+ * Create the hover event of the tick
+ */
+.checkboxFive label:hover::after {
+	opacity: 0.5;
+}
+
+/**
+ * Create the checkbox state for the tick
+ */
+.checkboxFive input[type=checkbox]:checked + label:after {
+	opacity: 1;
+}
+
+#tooltip_esp {
+	float: right;
+	width: 350px;
+	height: auto;
+	background-color: #F8F8F8;
+	position: absolute;
+	margin-left: 420px;
+	margin-top: -20px;
+}
+#tooltip_esp > h3 {
+	margin-left: 15px;
+	margin-top: 10px;
+}
+#info_migration {
+	width: : auto;	
+	overflow-y: auto;
+}
+#back_map {
+	margin-left: 25px;
+	cursor: pointer;
+	margin-top: 15px;
+}
+.info_sign {
+	font-weight: bold;
+	margin-left: 25px;
+	margin-top: 10px;
+	text-decoration: underline;
+}
+.country {
+	font-size: 18px;
+	fill: #464646;
+}
+.year {
+	font-size: 18px;
+	fill: #464646;
+}
+.datos {
+	font-size: 14px;
+	fill: #707070;
+}
+.cantidad {
+	font-size: 14px;
+	fill: #464646;
+	text-anchor: end;
+}
+#foot_pic_mov {
+	display: none;
+}
+i.fa.fa-times-circle-o {
+	float: right;
+	margin-top: -30px;
+	margin-right: 1px;
+	font-size: 25px;
+	color: #2d87cf;
+	cursor: pointer;
+}
+
+div.label {
+	padding-left: 3px;
+	margin-top: 18px;
+}
+
+@media only screen and (max-width: 479px) {
+	
+	.header {
+		padding-top: 0px !important;
+		padding-bottom: 0px;
+		font-size: 18px;
+		height: 80px !important;
+		margin-left: 10px;
+	}
+	#title_main {
+		width: 50%;
+		margin-top: 10px;
+		color: #606060;
+		font-weight: bold;
+	}
+	.lang_version {
+		margin: 65px 10px 0 0;
+		float: right;
+		cursor: pointer;
+	}
+	hr.header_line {
+		width: 320px;
+		background-color: #A0A0A0;
+		height: 1px;
+	}
+	.title {
+		margin-top: 20px;
+	}
+	hr.title_line {
+		margin-left: 20px;
+		margin-right: 20px;
+		width: 290px;
+	}
+	.verInstrucciones {
+		width: 90px !important;
+		margin-top: 20px !important;
+	}
+	.info_acerca {
+		width: 70px;
+		margin-top: 20px;
+	}
+	#Origin {
+		margin-left: 10px;
+		margin-top: 70px;
+		width: 140px;
+	}
+	#Destiny {
+		width: 140px;
+	}
+	div.menu {
+		padding-left: 10px;
+		width: 296px;
+		margin-left: 10px;
+	}
+	div.menu div {
+		width: 148px;
+		float: left;
+		padding-left: 0px;
+		font-size: 13px;
+		margin-bottom: -20px;
+	}
+	#time_line {
+		width: 300px;
+		margin-left: 15px;
+		margin-top: 30px;
+		margin-bottom: 40px;
+	}
+	div.modal {
+		width: 320px;
+	}
+	.titulo_nota {
+		padding-top: 30px;
+		padding-bottom: 15px;
+	}
+	.titulo_nota p.linea {
+		display: none;
+	}
+	.boton {
+		padding: 10px 0px 10px 40px;
+		margin: 20px 0px 10px 0px;
+	}
+	#Capa_1 {
+		margin-left: 20px;
+		width: 280px;
+		height: 350px;
+	}
+	#foot_pic {
+		display: none;
+	}
+	#foot_pic_mov_esp {
+		display: block;
+		margin-left: 35px;
+		margin-top: 10px;
+	}
+	#foot_pic_mov_ing {
+		display: block;
+		margin-left: 15px;
+		margin-top: 10px;
+	}
+	.line_end {
+		background-color: #A0A0A0;
+		height: 1px;
+		margin-top: 20px;
+		margin-left: 15px;
+	}
+	#tooltip_esp {
+		width: 320px;
+		margin-left: 0px;
+	}
+	#tooltip_esp div {
+		margin-left: 0px !important;
+	}
+}

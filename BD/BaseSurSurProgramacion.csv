@@ -1,0 +1,507 @@
+countries,paises,ctry_orig,iso_orig,ctry_dest,iso_dest,yr1960,yr1970,yr1980,yr1990,yr2000,yr2010
+Argentina,Argentina,Argentina,ARG,Argentina,ARG,0,0,0,0,0,0
+Bolivia,Bolivia,Argentina,ARG,Bolivia,BOL,4113,9976,14647,17463,27612,45424
+Brazil,Brasil,Argentina,ARG,Brazil,BRA,17814,17026,26427,28161,27553,27700
+Chile,Chile,Argentina,ARG,Chile,CHL,11966,12739,18862,32548,45713,82539
+Colombia,Colombia,Argentina,ARG,Colombia,COL,943,1418,1730,2142,2654,2570
+Costa Rica,Costa Rica,Argentina,ARG,Costa Rica,CRI,146,203,429,656,1103,0
+Cuba,Cuba,Argentina,ARG,Cuba,CUB,397,360,206,132,181,164
+Dominican Republic,Republica Dominicana,Argentina,ARG,Dominican Republic,DOM,90,809,1502,2291,3221,3940
+Ecuador,Ecuador,Argentina,ARG,Ecuador,ECU,540,1004,1563,1661,2183,7394
+El Salvador,El Salvador,Argentina,ARG,El Salvador,SLV,109,118,135,146,163,207
+Guatemala,Guatemala,Argentina,ARG,Guatemala,GTM,203,267,320,275,345,432
+Honduras,Honduras,Argentina,ARG,Honduras,HND,68,31,40,86,139,118
+Mexico,Mexico,Argentina,ARG,Mexico,MEX,2480,1638,6004,4417,6564,9508
+Nicaragua,Nicaragua,Argentina,ARG,Nicaragua,NIC,70,118,133,142,170,227
+Panama,Panama,Argentina,ARG,Panama,PAN,242,456,551,615,811,1154
+Paraguay,Paraguay,Argentina,ARG,Paraguay,PRY,27512,24563,37611,47261,64284,59115
+Peru,Peru,Argentina,ARG,Peru,PER,2643,3877,4861,4386,3586,2997
+Portugal,Portugal,Argentina,ARG,Portugal,PRT,55,144,377,856,1094,1465
+Puerto Rico,Puerto Rico,Argentina,ARG,Puerto Rico,PRI,133,392,563,1252,281,0
+Spain,España,Argentina,ARG,Spain,ESP,12334,20804,35637,52801,83803,331173
+United States,Estados Unidos,Argentina,ARG,United States,USA,17591,55325,77600,106364,133210,163353
+Uruguay,Uruguay,Argentina,ARG,Uruguay,URY,27775,23013,16613,18724,25146,22743
+Venezuela RB,Venezuela RB,Argentina,ARG,Venezuela  RB,VEN,4240,3827,10340,9580,8733,8533
+,,Bolivia,BOL,Argentina,ARG,90166,102092,119671,149439,237213,220869
+,,Bolivia,BOL,Bolivia,BOL,0,0,0,0,0,0
+,,Bolivia,BOL,Brazil,BRA,9035,10595,12924,15889,20394,20513
+,,Bolivia,BOL,Chile,CHL,8514,7135,6088,7247,10556,18707
+,,Bolivia,BOL,Colombia,COL,178,345,481,648,772,658
+,,Bolivia,BOL,Costa Rica,CRI,39,56,115,169,277,0
+,,Bolivia,BOL,Cuba,CUB,117,106,49,20,0,0
+,,Bolivia,BOL,Dominican Republic,DOM,7,107,204,313,443,542
+,,Bolivia,BOL,Ecuador,ECU,282,526,818,874,707,2094
+,,Bolivia,BOL,El Salvador,SLV,9,24,34,42,19,0
+,,Bolivia,BOL,Guatemala,GTM,37,66,66,50,85,106
+,,Bolivia,BOL,Honduras,HND,17,8,10,22,107,91
+,,Bolivia,BOL,Mexico,MEX,3,9,108,1333,1382,2000
+,,Bolivia,BOL,Nicaragua,NIC,18,30,34,37,44,59
+,,Bolivia,BOL,Panama,PAN,42,94,159,216,193,274
+,,Bolivia,BOL,Paraguay,PRY,211,14,437,757,1084,996
+,,Bolivia,BOL,Peru,PER,4171,3731,3140,3402,2782,2314
+,,Bolivia,BOL,Portugal,PRT,0,0,1,38,0,73
+,,Bolivia,BOL,Puerto Rico,PRI,0,2,2,11,21,0
+,,Bolivia,BOL,Spain,ESP,87,146,251,889,10641,274602
+,,Bolivia,BOL,United States,USA,2340,8903,16256,34385,53658,72890
+,,Bolivia,BOL,Uruguay,URY,1624,1346,971,996,360,326
+,,Bolivia,BOL,Venezuela  RB,VEN,1047,1399,2068,2367,1840,1798
+,,Brazil,BRA,Argentina,ARG,49290,45225,43698,35768,36424,32839
+,,Brazil,BRA,Bolivia,BOL,5733,7311,8479,8570,14708,24189
+,,Brazil,BRA,Brazil,BRA,0,0,0,0,0,0
+,,Brazil,BRA,Chile,CHL,616,891,1788,4311,6877,11820
+,,Brazil,BRA,Colombia,COL,1796,1909,1711,1586,1968,1878
+,,Brazil,BRA,Costa Rica,CRI,43,55,117,218,408,0
+,,Brazil,BRA,Cuba,CUB,6,6,3,2,2,0
+,,Brazil,BRA,Dominican Republic,DOM,18,280,533,820,1159,1417
+,,Brazil,BRA,Ecuador,ECU,232,431,671,963,1077,3636
+,,Brazil,BRA,El Salvador,SLV,43,1,108,187,182,232
+,,Brazil,BRA,Guatemala,GTM,64,109,76,82,149,187
+,,Brazil,BRA,Honduras,HND,40,18,23,50,171,146
+,,Brazil,BRA,Mexico,MEX,6,578,1291,1481,2347,3380
+,,Brazil,BRA,Nicaragua,NIC,52,88,99,106,127,170
+,,Brazil,BRA,Panama,PAN,115,256,440,638,819,1164
+,,Brazil,BRA,Paraguay,PRY,15979,30531,84503,104263,82987,76315
+,,Brazil,BRA,Peru,PER,2225,2604,2840,2662,2176,1816
+,,Brazil,BRA,Portugal,PRT,1891,4941,12910,23211,48521,70350
+,,Brazil,BRA,Puerto Rico,PRI,1,4,6,27,55,0
+,,Brazil,BRA,Spain,ESP,4404,7429,12725,13410,26797,162205
+,,Brazil,BRA,United States,USA,14821,34273,49875,100962,225330,339141
+,,Brazil,BRA,Uruguay,URY,20870,17292,12483,11739,12950,11712
+,,Brazil,BRA,Venezuela  RB,VEN,1963,2317,3653,4437,4834,4720
+,,Chile,CHL,Argentina,ARG,119505,163943,217368,226327,219104,200969
+,,Chile,CHL,Bolivia,BOL,4858,6367,7496,4312,4276,6979
+,,Chile,CHL,Brazil,BRA,1686,2032,17657,22095,17155,17236
+,,Chile,CHL,Chile,CHL,0,0,0,0,0,0
+,,Chile,CHL,Colombia,COL,895,1279,1507,1821,1774,1627
+,,Chile,CHL,Costa Rica,CRI,98,449,780,939,1307,0
+,,Chile,CHL,Cuba,CUB,26,23,52,72,191,173
+,,Chile,CHL,Dominican Republic,DOM,61,576,1073,1639,2306,2821
+,,Chile,CHL,Ecuador,ECU,1834,3413,5313,5276,5024,15528
+,,Chile,CHL,El Salvador,SLV,138,175,201,218,173,220
+,,Chile,CHL,Guatemala,GTM,217,267,265,213,188,236
+,,Chile,CHL,Honduras,HND,90,41,53,114,225,191
+,,Chile,CHL,Mexico,MEX,10,876,3658,2443,3913,5665
+,,Chile,CHL,Nicaragua,NIC,55,92,104,111,133,177
+,,Chile,CHL,Panama,PAN,385,581,1132,1037,1080,1536
+,,Chile,CHL,Paraguay,PRY,392,346,1513,2303,2383,2192
+,,Chile,CHL,Peru,PER,7597,6861,5844,4933,4033,3348
+,,Chile,CHL,Portugal,PRT,1,3,7,228,0,268
+,,Chile,CHL,Puerto Rico,PRI,83,245,352,937,188,0
+,,Chile,CHL,Spain,ESP,3834,6466,11077,6058,14592,76268
+,,Chile,CHL,United States,USA,6695,19695,42572,66317,85597,93382
+,,Chile,CHL,Uruguay,URY,2178,1805,1303,1370,1653,1495
+,,Chile,CHL,Venezuela  RB,VEN,9712,2987,22593,21947,15749,15414
+,,Colombia,COL,Argentina,ARG,10601,5267,246,3026,4264,0
+,,Colombia,COL,Bolivia,BOL,128,1023,1745,666,1275,2086
+,,Colombia,COL,Brazil,BRA,771,877,1493,2208,4158,4185
+,,Colombia,COL,Chile,CHL,645,769,1021,1547,3907,7019
+,,Colombia,COL,Colombia,COL,0,0,0,0,0,0
+,,Colombia,COL,Costa Rica,CRI,763,581,1025,2755,5903,0
+,,Colombia,COL,Cuba,CUB,256,231,144,104,172,155
+,,Colombia,COL,Dominican Republic,DOM,486,1693,2837,4160,5727,7005
+,,Colombia,COL,Ecuador,ECU,12586,23428,36461,40042,50510,170255
+,,Colombia,COL,El Salvador,SLV,172,214,242,259,435,554
+,,Colombia,COL,Guatemala,GTM,481,422,416,472,719,901
+,,Colombia,COL,Honduras,HND,831,378,486,1053,636,536
+,,Colombia,COL,Mexico,MEX,15,1231,3268,4754,6217,8957
+,,Colombia,COL,Nicaragua,NIC,113,190,214,229,274,365
+,,Colombia,COL,Panama,PAN,14796,14728,12267,15791,21845,31070
+,,Colombia,COL,Paraguay,PRY,618,41,313,1397,323,297
+,,Colombia,COL,Peru,PER,864,1441,1918,2495,2040,1708
+,,Colombia,COL,Portugal,PRT,2,5,12,95,313,515
+,,Colombia,COL,Puerto Rico,PRI,338,997,1432,874,1507,0
+,,Colombia,COL,Spain,ESP,963,1624,2781,9834,140748,375710
+,,Colombia,COL,United States,USA,13898,82450,167474,323838,533019,611971
+,,Colombia,COL,Uruguay,URY,4775,3957,2856,2929,347,314
+,,Colombia,COL,Venezuela  RB,VEN,97349,173628,455590,553872,617744,604514
+,,Costa Rica,CRI,Argentina,ARG,61,30,1,462,358,0
+,,Costa Rica,CRI,Bolivia,BOL,12,11,10,78,133,220
+,,Costa Rica,CRI,Brazil,BRA,145,151,324,385,238,239
+,,Costa Rica,CRI,Chile,CHL,91,102,203,426,455,800
+,,Costa Rica,CRI,Colombia,COL,348,414,420,446,844,848
+,,Costa Rica,CRI,Costa Rica,CRI,0,0,0,0,0,0
+,,Costa Rica,CRI,Cuba,CUB,15,14,8,5,6,0
+,,Costa Rica,CRI,Dominican Republic,DOM,39,464,875,1343,1893,2315
+,,Costa Rica,CRI,Ecuador,ECU,5,9,14,15,318,1285
+,,Costa Rica,CRI,El Salvador,SLV,935,587,767,892,660,841
+,,Costa Rica,CRI,Guatemala,GTM,8846,879,750,731,723,906
+,,Costa Rica,CRI,Honduras,HND,339,171,236,539,626,532
+,,Costa Rica,CRI,Mexico,MEX,1149,1026,1872,1832,2181,3155
+,,Costa Rica,CRI,Nicaragua,NIC,2247,3791,4261,4570,5469,7284
+,,Costa Rica,CRI,Panama,PAN,5811,4784,3241,4610,4735,6728
+,,Costa Rica,CRI,Paraguay,PRY,0,0,11,28,46,42
+,,Costa Rica,CRI,Peru,PER,118,162,197,226,185,155
+,,Costa Rica,CRI,Portugal,PRT,0,0,0,0,0,23
+,,Costa Rica,CRI,Puerto Rico,PRI,3,9,13,494,121,0
+,,Costa Rica,CRI,Spain,ESP,41,69,118,686,1161,3296
+,,Costa Rica,CRI,United States,USA,5794,19697,34220,51520,76623,82624
+,,Costa Rica,CRI,Uruguay,URY,28,23,17,17,39,36
+,,Costa Rica,CRI,Venezuela  RB,VEN,733,1306,1611,1657,1179,1084
+,,Cuba,CUB,Argentina,ARG,315,157,7,1431,2495,0
+,,Cuba,CUB,Bolivia,BOL,27,41,52,81,475,783
+,,Cuba,CUB,Brazil,BRA,602,467,573,439,1342,1351
+,,Cuba,CUB,Chile,CHL,227,234,259,516,2981,5419
+,,Cuba,CUB,Colombia,COL,1158,1106,853,628,1462,1463
+,,Cuba,CUB,Costa Rica,CRI,665,486,2129,2838,4324,0
+,,Cuba,CUB,Cuba,CUB,0,0,0,0,0,0
+,,Cuba,CUB,Dominican Republic,DOM,680,2440,4109,6038,8321,10178
+,,Cuba,CUB,Ecuador,ECU,25,46,72,77,1023,4101
+,,Cuba,CUB,El Salvador,SLV,231,161,103,57,97,123
+,,Cuba,CUB,Guatemala,GTM,603,469,272,419,413,515
+,,Cuba,CUB,Honduras,HND,205,93,120,260,445,379
+,,Cuba,CUB,Mexico,MEX,3862,4440,3859,2752,6847,9761
+,,Cuba,CUB,Nicaragua,NIC,338,570,641,687,823,1096
+,,Cuba,CUB,Panama,PAN,1513,1453,1165,3372,1707,2428
+,,Cuba,CUB,Paraguay,PRY,0,1,58,153,250,230
+,,Cuba,CUB,Peru,PER,275,596,871,432,353,295
+,,Cuba,CUB,Portugal,PRT,10,26,67,57,566,563
+,,Cuba,CUB,Puerto Rico,PRI,1729,5100,7326,19850,3967,0
+,,Cuba,CUB,Spain,ESP,9711,16380,28059,23596,40965,105748
+,,Cuba,CUB,United States,USA,85161,522875,682634,799972,894560,993729
+,,Cuba,CUB,Uruguay,URY,144,119,86,88,337,305
+,,Cuba,CUB,Venezuela  RB,VEN,4674,10084,11745,10561,9932,9515
+,,Dominican Republic,DOM,Argentina,ARG,278,138,6,273,1524,0
+,,Dominican Republic,DOM,Bolivia,BOL,14,32,46,37,12,20
+,,Dominican Republic,DOM,Brazil,BRA,104,216,168,275,102,103
+,,Dominican Republic,DOM,Chile,CHL,43,77,89,124,272,481
+,,Dominican Republic,DOM,Colombia,COL,142,133,100,70,318,310
+,,Dominican Republic,DOM,Costa Rica,CRI,36,34,82,348,825,0
+,,Dominican Republic,DOM,Cuba,CUB,617,558,287,152,130,118
+,,Dominican Republic,DOM,Dominican Republic,DOM,0,0,0,0,0,0
+,,Dominican Republic,DOM,Ecuador,ECU,22,41,64,68,134,485
+,,Dominican Republic,DOM,El Salvador,SLV,0,38,31,26,30,0
+,,Dominican Republic,DOM,Guatemala,GTM,64,38,57,37,68,84
+,,Dominican Republic,DOM,Honduras,HND,93,42,54,118,100,84
+,,Dominican Republic,DOM,Mexico,MEX,332,96,8,480,882,1195
+,,Dominican Republic,DOM,Nicaragua,NIC,25,42,47,50,60,80
+,,Dominican Republic,DOM,Panama,PAN,180,258,247,1450,5962,8479
+,,Dominican Republic,DOM,Paraguay,PRY,0,1,51,9,15,14
+,,Dominican Republic,DOM,Peru,PER,36,21,6,109,89,75
+,,Dominican Republic,DOM,Portugal,PRT,0,1,3,19,0,52
+,,Dominican Republic,DOM,Puerto Rico,PRI,2996,8837,12695,37731,8365,0
+,,Dominican Republic,DOM,Spain,ESP,236,399,683,6944,35587,130832
+,,Dominican Republic,DOM,United States,USA,13265,75310,188690,376328,706894,787015
+,,Dominican Republic,DOM,Uruguay,URY,126,105,76,78,35,32
+,,Dominican Republic,DOM,Venezuela  RB,VEN,8064,1824,15928,18221,14307,13804
+,,Ecuador,ECU,Argentina,ARG,697,346,16,1016,2035,0
+,,Ecuador,ECU,Bolivia,BOL,81,100,115,228,663,1093
+,,Ecuador,ECU,Brazil,BRA,473,357,753,610,1188,1195
+,,Ecuador,ECU,Chile,CHL,946,950,1149,2153,8846,16093
+,,Ecuador,ECU,Colombia,COL,8023,9100,8786,8886,11366,11437
+,,Ecuador,ECU,Costa Rica,CRI,155,176,196,464,956,0
+,,Ecuador,ECU,Cuba,CUB,10,9,5,3,3,0
+,,Ecuador,ECU,Dominican Republic,DOM,27,287,537,823,1159,1417
+,,Ecuador,ECU,Ecuador,ECU,0,0,0,0,0,0
+,,Ecuador,ECU,El Salvador,SLV,59,63,80,92,92,118
+,,Ecuador,ECU,Guatemala,GTM,102,109,118,89,103,130
+,,Ecuador,ECU,Honduras,HND,102,47,60,130,334,285
+,,Ecuador,ECU,Mexico,MEX,3,45,95,641,1247,1771
+,,Ecuador,ECU,Nicaragua,NIC,37,63,70,75,90,120
+,,Ecuador,ECU,Panama,PAN,1882,1775,1455,1652,1930,2744
+,,Ecuador,ECU,Paraguay,PRY,41,3,21,92,93,85
+,,Ecuador,ECU,Peru,PER,2122,1952,1699,1904,1557,1296
+,,Ecuador,ECU,Portugal,PRT,2,5,12,0,352,316
+,,Ecuador,ECU,Puerto Rico,PRI,2,6,9,581,83,0
+,,Ecuador,ECU,Spain,ESP,951,1604,2748,9716,176212,519123
+,,Ecuador,ECU,United States,USA,8400,46789,99076,152738,302705,420751
+,,Ecuador,ECU,Uruguay,URY,314,260,188,193,225,204
+,,Ecuador,ECU,Venezuela  RB,VEN,10857,5054,19382,24534,29027,28410
+,,El Salvador,SLV,Argentina,ARG,38,19,0,183,0,0
+,,El Salvador,SLV,Bolivia,BOL,3,5,6,42,101,166
+,,El Salvador,SLV,Brazil,BRA,114,346,490,402,480,483
+,,El Salvador,SLV,Chile,CHL,81,107,203,225,227,389
+,,El Salvador,SLV,Colombia,COL,135,162,165,176,308,309
+,,El Salvador,SLV,Costa Rica,CRI,965,751,5345,6349,8722,14379
+,,El Salvador,SLV,Cuba,CUB,8,7,4,3,3,0
+,,El Salvador,SLV,Dominican Republic,DOM,21,119,213,320,446,546
+,,El Salvador,SLV,Ecuador,ECU,3,6,9,9,178,717
+,,El Salvador,SLV,El Salvador,SLV,0,0,0,0,0,0
+,,El Salvador,SLV,Guatemala,GTM,3017,15349,16884,14308,11854,14855
+,,El Salvador,SLV,Honduras,HND,44548,12625,9003,7484,6644,5474
+,,El Salvador,SLV,Mexico,MEX,2732,1339,2122,5167,5485,7869
+,,El Salvador,SLV,Nicaragua,NIC,1015,1713,1925,2065,2471,3291
+,,El Salvador,SLV,Panama,PAN,1136,1271,1721,2493,2068,2942
+,,El Salvador,SLV,Paraguay,PRY,0,0,7,28,46,42
+,,El Salvador,SLV,Peru,PER,42,24,6,94,77,64
+,,El Salvador,SLV,Portugal,PRT,0,0,1,19,0,34
+,,El Salvador,SLV,Puerto Rico,PRI,2,5,7,527,65,0
+,,El Salvador,SLV,Spain,ESP,82,139,238,1313,2223,8130
+,,El Salvador,SLV,United States,USA,7453,18548,105316,502329,827583,1116420
+,,El Salvador,SLV,Uruguay,URY,17,14,10,11,17,16
+,,El Salvador,SLV,Venezuela  RB,VEN,449,486,997,1015,909,813
+,,Guatemala,GTM,Argentina,ARG,24,12,0,116,297,0
+,,Guatemala,GTM,Bolivia,BOL,5,4,4,106,134,221
+,,Guatemala,GTM,Brazil,BRA,140,142,174,53,158,159
+,,Guatemala,GTM,Chile,CHL,67,63,8,142,221,394
+,,Guatemala,GTM,Colombia,COL,142,194,222,262,368,370
+,,Guatemala,GTM,Costa Rica,CRI,450,412,874,1246,1998,3294
+,,Guatemala,GTM,Cuba,CUB,3,3,1,0,1,0
+,,Guatemala,GTM,Dominican Republic,DOM,7,139,266,410,579,709
+,,Guatemala,GTM,Ecuador,ECU,2,4,6,6,146,591
+,,Guatemala,GTM,El Salvador,SLV,7696,4690,4708,4655,6698,8528
+,,Guatemala,GTM,Guatemala,GTM,0,0,0,0,0,0
+,,Guatemala,GTM,Honduras,HND,5272,1816,1784,2952,3370,2849
+,,Guatemala,GTM,Mexico,MEX,8834,7134,4463,43073,24148,35022
+,,Guatemala,GTM,Nicaragua,NIC,428,722,811,870,1041,1387
+,,Guatemala,GTM,Panama,PAN,243,291,305,404,611,870
+,,Guatemala,GTM,Paraguay,PRY,0,0,4,24,39,36
+,,Guatemala,GTM,Peru,PER,58,33,8,130,107,89
+,,Guatemala,GTM,Portugal,PRT,0,0,0,19,0,37
+,,Guatemala,GTM,Puerto Rico,PRI,0,2,2,53,23,0
+,,Guatemala,GTM,Spain,ESP,71,120,205,1187,2010,6699
+,,Guatemala,GTM,United States,USA,6073,20482,72214,242451,489507,753720
+,,Guatemala,GTM,Uruguay,URY,11,9,7,7,26,23
+,,Guatemala,GTM,Venezuela  RB,VEN,256,255,431,577,430,399
+,,Honduras,HND,Argentina,ARG,22,11,0,141,0,0
+,,Honduras,HND,Bolivia,BOL,7,5,4,168,198,327
+,,Honduras,HND,Brazil,BRA,97,83,205,278,136,137
+,,Honduras,HND,Chile,CHL,61,116,184,214,234,418
+,,Honduras,HND,Colombia,COL,11,66,118,179,281,283
+,,Honduras,HND,Costa Rica,CRI,809,550,962,1643,2949,4861
+,,Honduras,HND,Cuba,CUB,41,37,21,13,16,0
+,,Honduras,HND,Dominican Republic,DOM,105,203,292,399,528,645
+,,Honduras,HND,Ecuador,ECU,2,3,5,5,159,644
+,,Honduras,HND,El Salvador,SLV,15024,19591,13598,8901,8802,11207
+,,Honduras,HND,Guatemala,GTM,15094,6806,5385,4597,5214,6534
+,,Honduras,HND,Honduras,HND,0,0,0,0,0,0
+,,Honduras,HND,Mexico,MEX,1527,991,1540,2030,3680,5314
+,,Honduras,HND,Nicaragua,NIC,4503,7598,8539,9158,10960,14597
+,,Honduras,HND,Panama,PAN,566,581,447,705,853,1213
+,,Honduras,HND,Paraguay,PRY,0,0,4,22,36,33
+,,Honduras,HND,Peru,PER,26,16,6,117,95,80
+,,Honduras,HND,Portugal,PRT,0,0,0,0,0,23
+,,Honduras,HND,Puerto Rico,PRI,8,24,35,444,326,0
+,,Honduras,HND,Spain,ESP,65,109,187,1668,2824,27059
+,,Honduras,HND,United States,USA,7028,22561,42722,119088,288779,469202
+,,Honduras,HND,Uruguay,URY,10,8,6,6,16,15
+,,Honduras,HND,Venezuela  RB,VEN,193,216,310,436,309,250
+,,Mexico,MEX,Argentina,ARG,307,152,7,2332,3610,0
+,,Mexico,MEX,Bolivia,BOL,143,2921,5168,6442,9557,15721
+,,Mexico,MEX,Brazil,BRA,545,515,848,787,1258,1266
+,,Mexico,MEX,Chile,CHL,215,313,98,743,1698,2907
+,,Mexico,MEX,Colombia,COL,597,929,1157,1454,2285,2294
+,,Mexico,MEX,Costa Rica,CRI,528,518,781,1311,2329,0
+,,Mexico,MEX,Cuba,CUB,1346,1218,659,383,433,392
+,,Mexico,MEX,Dominican Republic,DOM,123,582,1020,1523,2118,2591
+,,Mexico,MEX,Ecuador,ECU,24,45,70,653,837,3094
+,,Mexico,MEX,El Salvador,SLV,1175,883,1190,1404,1292,1645
+,,Mexico,MEX,Guatemala,GTM,1838,3487,3050,5208,10901,13662
+,,Mexico,MEX,Honduras,HND,490,239,322,722,1139,969
+,,Mexico,MEX,Mexico,MEX,0,0,0,0,0,0
+,,Mexico,MEX,Nicaragua,NIC,349,589,662,710,849,1131
+,,Mexico,MEX,Panama,PAN,860,768,1019,1467,2382,3389
+,,Mexico,MEX,Paraguay,PRY,190,569,2479,2864,1814,1668
+,,Mexico,MEX,Peru,PER,420,560,665,761,622,520
+,,Mexico,MEX,Portugal,PRT,0,1,3,38,0,302
+,,Mexico,MEX,Puerto Rico,PRI,113,332,478,1934,381,0
+,,Mexico,MEX,Spain,ESP,3420,5768,9881,11549,16905,48483
+,,Mexico,MEX,United States,USA,610787,936424,2408502,4662233,9367910,11635995
+,,Mexico,MEX,Uruguay,URY,139,115,83,85,347,314
+,,Mexico,MEX,Venezuela  RB,VEN,1278,1525,2472,2888,3118,2862
+,,Nicaragua,NIC,Argentina,ARG,61,31,1,147,0,0
+,,Nicaragua,NIC,Bolivia,BOL,2,7,10,49,79,131
+,,Nicaragua,NIC,Brazil,BRA,660,582,602,327,500,503
+,,Nicaragua,NIC,Chile,CHL,50,57,116,168,234,418
+,,Nicaragua,NIC,Colombia,COL,247,290,290,305,459,460
+,,Nicaragua,NIC,Costa Rica,CRI,17823,12633,28054,99006,226582,373548
+,,Nicaragua,NIC,Cuba,CUB,20,18,71,105,290,262
+,,Nicaragua,NIC,Dominican Republic,DOM,42,149,250,367,506,618
+,,Nicaragua,NIC,Ecuador,ECU,5,9,14,15,135,538
+,,Nicaragua,NIC,El Salvador,SLV,2065,1170,1874,2376,5896,7507
+,,Nicaragua,NIC,Guatemala,GTM,2,1199,2167,3592,5321,6668
+,,Nicaragua,NIC,Honduras,HND,4165,3355,5700,14661,5713,4802
+,,Nicaragua,NIC,Mexico,MEX,2067,3762,2367,2721,2558,3684
+,,Nicaragua,NIC,Nicaragua,NIC,0,0,0,0,0,0
+,,Nicaragua,NIC,Panama,PAN,4501,3279,3013,4985,5008,7123
+,,Nicaragua,NIC,Paraguay,PRY,0,0,11,16,26,23
+,,Nicaragua,NIC,Peru,PER,94,52,10,142,116,97
+,,Nicaragua,NIC,Portugal,PRT,0,0,0,0,0,25
+,,Nicaragua,NIC,Puerto Rico,PRI,3,10,14,467,131,0
+,,Nicaragua,NIC,Spain,ESP,48,81,138,972,1645,11540
+,,Nicaragua,NIC,United States,USA,10215,19029,49468,181863,229386,242886
+,,Nicaragua,NIC,Uruguay,URY,28,23,17,17,34,31
+,,Nicaragua,NIC,Venezuela  RB,VEN,1048,788,1968,2369,1932,1785
+,,Panama,PAN,Argentina,ARG,87,43,2,377,286,0
+,,Panama,PAN,Bolivia,BOL,3,9,15,68,89,148
+,,Panama,PAN,Brazil,BRA,1095,371,640,968,559,561
+,,Panama,PAN,Chile,CHL,179,222,28,349,504,905
+,,Panama,PAN,Colombia,COL,1794,1927,1749,1648,1650,1661
+,,Panama,PAN,Costa Rica,CRI,3032,2425,2929,5477,10279,16947
+,,Panama,PAN,Cuba,CUB,48,43,24,15,18,0
+,,Panama,PAN,Dominican Republic,DOM,121,291,448,632,852,1043
+,,Panama,PAN,Ecuador,ECU,7,13,20,21,329,1321
+,,Panama,PAN,El Salvador,SLV,310,13,193,325,341,434
+,,Panama,PAN,Guatemala,GTM,1691,237,240,494,187,234
+,,Panama,PAN,Honduras,HND,245,112,143,311,291,246
+,,Panama,PAN,Mexico,MEX,1150,1229,1738,2151,1663,2389
+,,Panama,PAN,Nicaragua,NIC,167,282,316,339,406,541
+,,Panama,PAN,Panama,PAN,0,0,0,0,0,0
+,,Panama,PAN,Paraguay,PRY,0,0,16,27,44,40
+,,Panama,PAN,Peru,PER,289,313,321,296,242,201
+,,Panama,PAN,Portugal,PRT,0,0,0,114,0,169
+,,Panama,PAN,Puerto Rico,PRI,106,313,449,1899,377,0
+,,Panama,PAN,Spain,ESP,46,78,133,1074,1817,4850
+,,Panama,PAN,United States,USA,13957,23657,92341,129412,146882,98009
+,,Panama,PAN,Uruguay,URY,40,33,24,24,72,65
+,,Panama,PAN,Venezuela  RB,VEN,650,972,1236,1468,977,936
+,,Paraguay,PRY,Argentina,ARG,157030,205465,265190,261080,331688,307510
+,,Paraguay,PRY,Bolivia,BOL,170,614,971,956,3258,5367
+,,Paraguay,PRY,Brazil,BRA,19887,19736,17523,21251,28828,28999
+,,Paraguay,PRY,Chile,CHL,206,283,265,638,1197,2094
+,,Paraguay,PRY,Colombia,COL,47,210,366,547,357,173
+,,Paraguay,PRY,Costa Rica,CRI,12,17,24,37,62,0
+,,Paraguay,PRY,Cuba,CUB,0,0,0,0,0,0
+,,Paraguay,PRY,Dominican Republic,DOM,0,17,34,52,74,90
+,,Paraguay,PRY,Ecuador,ECU,440,819,1274,1360,383,334
+,,Paraguay,PRY,El Salvador,SLV,5,26,23,21,20,0
+,,Paraguay,PRY,Guatemala,GTM,3,0,21,0,37,46
+,,Paraguay,PRY,Honduras,HND,5,2,3,6,25,22
+,,Paraguay,PRY,Mexico,MEX,0,3,18,255,227,327
+,,Paraguay,PRY,Nicaragua,NIC,5,8,9,10,12,15
+,,Paraguay,PRY,Panama,PAN,0,40,48,40,38,55
+,,Paraguay,PRY,Paraguay,PRY,0,0,0,0,0,0
+,,Paraguay,PRY,Peru,PER,99,50,1,204,167,140
+,,Paraguay,PRY,Portugal,PRT,0,0,0,0,0,34
+,,Paraguay,PRY,Puerto Rico,PRI,0,0,0,1,2,0
+,,Paraguay,PRY,Spain,ESP,13,22,37,131,1705,78528
+,,Paraguay,PRY,United States,USA,636,175,3815,7575,13715,26121
+,,Paraguay,PRY,Uruguay,URY,2322,1924,1389,1353,1448,1310
+,,Paraguay,PRY,Venezuela  RB,VEN,263,173,412,594,241,218
+,,Peru,PER,Argentina,ARG,1691,4992,8559,16347,91182,83498
+,,Peru,PER,Bolivia,BOL,12418,8298,4723,5680,8993,14794
+,,Peru,PER,Brazil,BRA,2794,2426,3801,5678,10811,10880
+,,Peru,PER,Chile,CHL,3583,3666,4086,7020,35416,64870
+,,Peru,PER,Colombia,COL,1153,1930,2508,3238,4078,4054
+,,Peru,PER,Costa Rica,CRI,95,361,621,1402,2843,0
+,,Peru,PER,Cuba,CUB,29,26,14,8,7,0
+,,Peru,PER,Dominican Republic,DOM,71,612,1133,1728,2428,2970
+,,Peru,PER,Ecuador,ECU,602,1121,1744,2555,5090,18764
+,,Peru,PER,El Salvador,SLV,59,72,114,144,176,224
+,,Peru,PER,Guatemala,GTM,193,162,206,142,284,356
+,,Peru,PER,Honduras,HND,127,58,74,161,279,238
+,,Peru,PER,Mexico,MEX,9,857,2488,2621,3785,5461
+,,Peru,PER,Nicaragua,NIC,84,141,159,170,204,271
+,,Peru,PER,Panama,PAN,580,644,1175,1808,2745,3904
+,,Peru,PER,Paraguay,PRY,99,6,50,223,1654,1521
+,,Peru,PER,Peru,PER,0,0,0,0,0,0
+,,Peru,PER,Portugal,PRT,0,2,4,209,0,288
+,,Peru,PER,Puerto Rico,PRI,6,16,23,714,219,0
+,,Peru,PER,Spain,ESP,1606,2709,4641,3294,43277,184832
+,,Peru,PER,United States,USA,7756,29305,67507,162190,285925,392455
+,,Peru,PER,Uruguay,URY,762,631,456,467,506,457
+,,Peru,PER,Venezuela  RB,VEN,13096,2114,19099,29592,36375,35577
+,,Portugal,PRT,Argentina,ARG,30594,24930,20676,14459,9019,0
+,,Portugal,PRT,Bolivia,BOL,78,1016,1775,227,40,47
+,,Portugal,PRT,Brazil,BRA,486914,429297,389006,273088,212917,214511
+,,Portugal,PRT,Chile,CHL,186,110,99,127,246,435
+,,Portugal,PRT,Colombia,COL,294,509,672,877,448,0
+,,Portugal,PRT,Costa Rica,CRI,13,9,25,36,58,0
+,,Portugal,PRT,Cuba,CUB,157,142,70,33,19,0
+,,Portugal,PRT,Dominican Republic,DOM,124,142,152,171,196,239
+,,Portugal,PRT,Ecuador,ECU,845,1573,2448,2613,702,502
+,,Portugal,PRT,El Salvador,SLV,42,17,11,6,14,0
+,,Portugal,PRT,Guatemala,GTM,18,7,14,8,17,21
+,,Portugal,PRT,Honduras,HND,10,4,6,12,7,6
+,,Portugal,PRT,Mexico,MEX,520,544,51,142,278,402
+,,Portugal,PRT,Nicaragua,NIC,5,9,10,11,13,17
+,,Portugal,PRT,Panama,PAN,108,165,193,193,141,200
+,,Portugal,PRT,Paraguay,PRY,34,102,654,953,43,39
+,,Portugal,PRT,Peru,PER,127,257,368,172,141,47
+,,Portugal,PRT,Portugal,PRT,0,0,0,0,0,0
+,,Portugal,PRT,Puerto Rico,PRI,10,29,41,28,385,0
+,,Portugal,PRT,Spain,ESP,14105,23791,40754,41732,45479,156062
+,,Portugal,PRT,United States,USA,84417,142208,229168,235097,212370,176694
+,,Portugal,PRT,Uruguay,URY,2324,1926,1390,1065,678,613
+,,Portugal,PRT,Venezuela  RB,VEN,40463,58242,83376,72727,54250,53035
+,,Puerto Rico,PRI,Argentina,ARG,29,14,0,210,0,0
+,,Puerto Rico,PRI,Bolivia,BOL,1,3,5,24,39,64
+,,Puerto Rico,PRI,Brazil,BRA,0,0,0,31,0,0
+,,Puerto Rico,PRI,Chile,CHL,30,60,9,121,180,300
+,,Puerto Rico,PRI,Colombia,COL,15,100,184,280,442,444
+,,Puerto Rico,PRI,Costa Rica,CRI,4,5,120,169,268,0
+,,Puerto Rico,PRI,Cuba,CUB,182,165,105,78,132,120
+,,Puerto Rico,PRI,Dominican Republic,DOM,3756,5393,6763,8527,10690,13075
+,,Puerto Rico,PRI,Ecuador,ECU,2,4,7,7,170,687
+,,Puerto Rico,PRI,El Salvador,SLV,0,0,36,63,0,0
+,,Puerto Rico,PRI,Guatemala,GTM,81,84,73,70,64,80
+,,Puerto Rico,PRI,Honduras,HND,24,11,14,31,94,80
+,,Puerto Rico,PRI,Mexico,MEX,822,385,20,1221,2003,2563
+,,Puerto Rico,PRI,Nicaragua,NIC,20,34,39,42,50,66
+,,Puerto Rico,PRI,Panama,PAN,366,365,363,302,343,489
+,,Puerto Rico,PRI,Paraguay,PRY,0,0,5,24,39,36
+,,Puerto Rico,PRI,Peru,PER,19,13,6,112,92,77
+,,Puerto Rico,PRI,Portugal,PRT,0,0,0,0,0,0
+,,Puerto Rico,PRI,Puerto Rico,PRI,0,0,0,0,0,0
+,,Puerto Rico,PRI,Spain,ESP,0,1,2,0,0,0
+,,Puerto Rico,PRI,United States,USA,657479,941566,1106839,1437657,1455095,1651031
+,,Puerto Rico,PRI,Uruguay,URY,13,11,8,8,30,27
+,,Puerto Rico,PRI,Venezuela  RB,VEN,403,1250,1084,910,534,519
+,,Spain,ESP,Argentina,ARG,753707,547743,373063,252380,137084,127165
+,,Spain,ESP,Bolivia,BOL,1528,1469,1392,1343,1482,2431
+,,Spain,ESP,Brazil,BRA,162107,127396,97676,58793,43545,43871
+,,Spain,ESP,Chile,CHL,21767,15486,12122,9675,8636,15563
+,,Spain,ESP,Colombia,COL,5882,6081,5259,4653,5750,5327
+,,Spain,ESP,Costa Rica,CRI,1271,646,945,1152,1624,0
+,,Spain,ESP,Cuba,CUB,82748,74874,35905,16031,5209,4715
+,,Spain,ESP,Dominican Republic,DOM,13147,12356,10819,9825,8967,10968
+,,Spain,ESP,Ecuador,ECU,827,1539,2395,2004,3030,10283
+,,Spain,ESP,El Salvador,SLV,1111,751,601,480,403,513
+,,Spain,ESP,Guatemala,GTM,1602,1855,1416,910,820,1028
+,,Spain,ESP,Honduras,HND,267,121,156,339,383,325
+,,Spain,ESP,Mexico,MEX,49906,31474,36763,25013,21133,30580
+,,Spain,ESP,Nicaragua,NIC,210,355,398,427,511,681
+,,Spain,ESP,Panama,PAN,3543,3601,2613,2984,2573,3638
+,,Spain,ESP,Paraguay,PRY,372,1113,1075,1045,998,918
+,,Spain,ESP,Peru,PER,5340,5300,5014,3846,3145,2547
+,,Spain,ESP,Portugal,PRT,1198,3131,8180,10369,12697,19693
+,,Spain,ESP,Puerto Rico,PRI,706,2084,2993,4681,7166,0
+,,Spain,ESP,Spain,ESP,0,0,0,0,0,0
+,,Spain,ESP,United States,USA,47232,68175,97039,110958,119977,82440
+,,Spain,ESP,Uruguay,URY,65360,54155,39095,30030,20682,18705
+,,Spain,ESP,Venezuela  RB,VEN,162858,144301,130624,110859,77759,75526
+,,Uruguay,URY,Argentina,ARG,56568,83443,114876,138094,119169,111222
+,,Uruguay,URY,Bolivia,BOL,94,296,457,342,431,706
+,,Uruguay,URY,Brazil,BRA,12787,13448,21084,23207,24756,24892
+,,Uruguay,URY,Chile,CHL,531,750,932,1387,2235,3839
+,,Uruguay,URY,Colombia,COL,94,237,364,514,438,349
+,,Uruguay,URY,Costa Rica,CRI,11,45,123,159,235,0
+,,Uruguay,URY,Cuba,CUB,6,6,3,2,2,0
+,,Uruguay,URY,Dominican Republic,DOM,16,467,904,1399,1982,2424
+,,Uruguay,URY,Ecuador,ECU,218,405,631,673,472,1314
+,,Uruguay,URY,El Salvador,SLV,20,31,52,68,24,0
+,,Uruguay,URY,Guatemala,GTM,10,0,49,2,87,109
+,,Uruguay,URY,Honduras,HND,15,7,9,19,49,42
+,,Uruguay,URY,Mexico,MEX,3,6,1661,977,1353,1960
+,,Uruguay,URY,Nicaragua,NIC,3,5,5,6,7,0
+,,Uruguay,URY,Panama,PAN,23,139,141,156,270,385
+,,Uruguay,URY,Paraguay,PRY,401,722,2031,3083,3305,3039
+,,Uruguay,URY,Peru,PER,184,360,509,420,343,287
+,,Uruguay,URY,Portugal,PRT,0,0,2,114,0,190
+,,Uruguay,URY,Puerto Rico,PRI,1,4,5,27,51,0
+,,Uruguay,URY,Spain,ESP,144,243,417,1478,19876,99666
+,,Uruguay,URY,United States,USA,1283,6579,15685,24694,25507,47772
+,,Uruguay,URY,Uruguay,URY,0,0,0,0,0,0
+,,Uruguay,URY,Venezuela  RB,VEN,2730,987,6283,6169,4697,4237
+,,Venezuela  RB,VEN,Argentina,ARG,662,329,15,1993,3068,0
+,,Venezuela  RB,VEN,Bolivia,BOL,27,72,109,278,492,811
+,,Venezuela  RB,VEN,Brazil,BRA,1395,981,1258,1212,2162,2175
+,,Venezuela  RB,VEN,Chile,CHL,411,378,888,2336,4034,7432
+,,Venezuela  RB,VEN,Colombia,COL,12855,23498,31923,42329,37169,37461
+,,Venezuela  RB,VEN,Costa Rica,CRI,181,248,457,649,1038,0
+,,Venezuela  RB,VEN,Cuba,CUB,612,554,302,179,210,190
+,,Venezuela  RB,VEN,Dominican Republic,DOM,581,4434,8141,12371,17358,21231
+,,Venezuela  RB,VEN,Ecuador,ECU,528,982,1529,2537,3448,12189
+,,Venezuela  RB,VEN,El Salvador,SLV,67,43,104,148,182,0
+,,Venezuela  RB,VEN,Guatemala,GTM,244,127,112,130,173,217
+,,Venezuela  RB,VEN,Honduras,HND,58,26,34,74,72,61
+,,Venezuela  RB,VEN,Mexico,MEX,7,834,2167,1488,2845,4117
+,,Venezuela  RB,VEN,Nicaragua,NIC,55,93,105,112,134,179
+,,Venezuela  RB,VEN,Panama,PAN,355,395,323,529,1008,1434
+,,Venezuela  RB,VEN,Paraguay,PRY,39,3,20,87,146,134
+,,Venezuela  RB,VEN,Peru,PER,460,643,786,1565,1279,1071
+,,Venezuela  RB,VEN,Portugal,PRT,703,1836,4797,15106,21370,31519
+,,Venezuela  RB,VEN,Puerto Rico,PRI,124,367,527,1301,1804,0
+,,Venezuela  RB,VEN,Spain,ESP,10853,18306,31357,41530,54198,164239
+,,Venezuela  RB,VEN,United States,USA,7287,14645,41821,54323,118195,171891
+,,Venezuela  RB,VEN,Uruguay,URY,298,247,178,183,706,638
+,,Venezuela  RB,VEN,Venezuela  RB,VEN,0,0,0,0,0,0
